@@ -91,6 +91,6 @@ These segments can help businesses develop **targeted marketing strategies, impr
 
 ## Files
 
-* `customer segmentation output data` — Complete analysis and machine learning implementation.
+* `segmentation` — Complete analysis and machine learning implementation.
 * Customer segmentation output data — Final segmented customer dataset.
 
