@@ -1,4 +1,4 @@
-# Customer Segmentation
+#Segmentation.ipynb — Complete analysis and machine learning implementation.
 
 ## Overview
 
@@ -91,6 +91,6 @@ These segments can help businesses develop **targeted marketing strategies, impr
 
 ## Files
 
-* `Customer_Segmentation.ipynb` — Complete analysis and machine learning implementation.
+* `customer segmentation output data` — Complete analysis and machine learning implementation.
 * Customer segmentation output data — Final segmented customer dataset.
 
